@@ -15,6 +15,6 @@ Use prefix '!' to call:
 >- edit `config.json` or create `.env` instead with your credentials;
 >- use ```npm start``` to start bot. If you have vps/vds, use [pm2](https://www.npmjs.com/package/pm2) process manager to start bot on your server.
 
->**TODO:**
->Create npm lib for better usage;
->Refactor code, delete garbage code;
+*TODO:*
+- [ ] Make npm lib for better usage.
+- [ ] Refactor code, delete garbage code.
